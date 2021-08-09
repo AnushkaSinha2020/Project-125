@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px black;
+}
+
+.note{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    background-color: rgb(134, 255, 243);
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid aqua;
+    border-radius: 20px;
+    box-shadow: 5px 5px black;
+}
